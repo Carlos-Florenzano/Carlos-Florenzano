@@ -5,4 +5,6 @@
 - Estou pensando em futuramente abrir um canal no Youtube para compartilhar e explicar alguns conhecimentos adquiridos quando der tempo.
 - Por agora, o que tenho de planos para além do Portfy é o Youtube e o meu TCC (que não pretendo divulgar muitas informações nesse momento atual).
 
+---
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Carlos-Florenzano&langs_count=8)
