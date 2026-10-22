@@ -1,9 +1,9 @@
-#### Esse perfil é basicamente feito para recém compartilhar algumas das minhas experiências adquiridas.
-##### Leve em consideração que haverá aqui assuntos diversos de meu interesse, sendo esses principalmente sobre computação no geral.
+#### ᴇꜱꜱᴇ ᴘᴇʀꜰɪʟ ᴇ́ ʙᴀꜱɪᴄᴀᴍᴇɴᴛᴇ ꜰᴇɪᴛᴏ ᴘᴀʀᴀ ʀᴇᴄᴇ́ᴍ ᴄᴏᴍᴘᴀʀᴛɪʟʜᴀʀ ᴀʟɢᴜᴍᴀꜱ ᴅᴀꜱ ᴍɪɴʜᴀꜱ ᴇxᴘᴇʀɪᴇ̂ɴᴄɪᴀꜱ ᴀᴅǫᴜɪʀɪᴅᴀꜱ.
+##### ʟᴇᴠᴇ ᴇᴍ ᴄᴏɴꜱɪᴅᴇʀᴀᴄ̧ᴀ̃ᴏ ǫᴜᴇ ʜᴀᴠᴇʀᴀ́ ᴀǫᴜɪ ᴀꜱꜱᴜɴᴛᴏꜱ ᴅɪᴠᴇʀꜱᴏꜱ ᴅᴇ ᴍᴇᴜ ɪɴᴛᴇʀᴇꜱꜱᴇ, ꜱᴇɴᴅᴏ ᴇꜱꜱᴇꜱ ᴘʀɪɴᴄɪᴘᴀʟᴍᴇɴᴛᴇ ꜱᴏʙʀᴇ ᴄᴏᴍᴘᴜᴛᴀᴄ̧ᴀ̃ᴏ ɴᴏ ɢᴇʀᴀʟ.
 
-- Atualmente estou desenvolvendo o **Portfy**, que é o meu software de gestão de carteira e investimentos com alguns diferenciais que julgo importantes.
-- Estou pensando em futuramente abrir um canal no Youtube para compartilhar e explicar alguns conhecimentos adquiridos quando der tempo.
-- Por agora, o que tenho de planos para além do Portfy é o Youtube e o meu TCC (que não pretendo divulgar muitas informações nesse momento atual).
+- ᴀᴛᴜᴀʟᴍᴇɴᴛᴇ ᴇꜱᴛᴏᴜ ᴅᴇꜱᴇɴᴠᴏʟᴠᴇɴᴅᴏ ᴏ **ᴘᴏʀᴛꜰʏ**, ǫᴜᴇ ᴇ́ ᴏ ᴍᴇᴜ ꜱᴏꜰᴛᴡᴀʀᴇ ᴅᴇ ɢᴇꜱᴛᴀ̃ᴏ ᴅᴇ ᴄᴀʀᴛᴇɪʀᴀ ᴇ ɪɴᴠᴇꜱᴛɪᴍᴇɴᴛᴏꜱ ᴄᴏᴍ ᴀʟɢᴜɴꜱ ᴅɪꜰᴇʀᴇɴᴄɪᴀɪꜱ ǫᴜᴇ ᴊᴜʟɢᴏ ɪᴍᴘᴏʀᴛᴀɴᴛᴇꜱ.
+- ᴇꜱᴛᴏᴜ ᴘᴇɴꜱᴀɴᴅᴏ ᴇᴍ ꜰᴜᴛᴜʀᴀᴍᴇɴᴛᴇ ᴀʙʀɪʀ ᴜᴍ ᴄᴀɴᴀʟ ɴᴏ ʏᴏᴜᴛᴜʙᴇ ᴘᴀʀᴀ ᴄᴏᴍᴘᴀʀᴛɪʟʜᴀʀ ᴇ ᴇxᴘʟɪᴄᴀʀ ᴀʟɢᴜɴꜱ ᴄᴏɴʜᴇᴄɪᴍᴇɴᴛᴏꜱ ᴀᴅǫᴜɪʀɪᴅᴏꜱ ǫᴜᴀɴᴅᴏ ᴅᴇʀ ᴛᴇᴍᴘᴏ.
+- ᴘᴏʀ ᴀɢᴏʀᴀ, ᴏ ǫᴜᴇ ᴛᴇɴʜᴏ ᴅᴇ ᴘʟᴀɴᴏꜱ ᴘᴀʀᴀ ᴀʟᴇ́ᴍ ᴅᴏ ᴘᴏʀᴛꜰʏ ᴇ́ ᴏ ʏᴏᴜᴛᴜʙᴇ ᴇ ᴏ ᴍᴇᴜ ᴛᴄᴄ (ǫᴜᴇ ɴᴀ̃ᴏ ᴘʀᴇᴛᴇɴᴅᴏ ᴅɪᴠᴜʟɢᴀʀ ᴍᴜɪᴛᴀꜱ ɪɴꜰᴏʀᴍᴀᴄ̧ᴏ̃ᴇꜱ ɴᴇꜱꜱᴇ ᴍᴏᴍᴇɴᴛᴏ ᴀᴛᴜᴀʟ).
 
 ---
 
