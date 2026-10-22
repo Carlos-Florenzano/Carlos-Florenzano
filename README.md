@@ -1,4 +1,6 @@
 [![My Skills](https://skillicons.dev/icons?i=debian&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=sqlite&perline=3)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=cs&perline=3)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=ts&perline=3)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=html&perline=3)](https://skillicons.dev)
