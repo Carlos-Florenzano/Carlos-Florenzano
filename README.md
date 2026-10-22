@@ -1,4 +1,12 @@
-[![My Skills](https://skillicons.dev/icons?i=debian,cs,ts,html,css,instagram,discord,linkedin&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=debian&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=css&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=instagram&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=discord&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linkedin&perline=3)](https://skillicons.dev)
+
 
 ---
 
