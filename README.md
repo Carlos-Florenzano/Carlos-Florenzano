@@ -8,4 +8,4 @@
 ---
 
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Carlos-Florenzano&langs_count=3)
-![Dados do Perfil](https://github-readme-stats.vercel.app/api?username=Carlos-Florenzano&show_icons=true&theme=jolly)
+![Dados do Perfil](https://github-readme-stats.vercel.app/api?username=Carlos-Florenzano&show_icons=false&theme=jolly)
