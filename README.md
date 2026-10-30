@@ -3,9 +3,15 @@
 [![My Skills](https://skillicons.dev/icons?i=sqlite&perline=3)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=react&perline=3)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=cs&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=dotnet&perline=3)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=ts&perline=3)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=html&perline=3)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=css&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py&perline=3)](https://skillicons.dev)
+
+
 
 ---
 
