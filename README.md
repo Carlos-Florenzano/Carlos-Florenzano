@@ -11,6 +11,7 @@
 [![My Skills](https://skillicons.dev/icons?i=cpp&perline=3)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=py&perline=3)](https://skillicons.dev)
 
+![DeepSeek](https://img.shields.io/badge/DeepSeek-%235786FE.svg?style=for-the-badge&logo=deepseek&logoColor=white)  ![Google Gemini](https://img.shields.io/badge/google%20gemini-%238E75B2.svg?style=for-the-badge&logo=google%20gemini&logoColor=white)  
 
 
 ---
@@ -24,12 +25,6 @@
 
 ---
 
-![DeepSeek](https://img.shields.io/badge/DeepSeek-%235786FE.svg?style=for-the-badge&logo=deepseek&logoColor=white)  ![Google Gemini](https://img.shields.io/badge/google%20gemini-%238E75B2.svg?style=for-the-badge&logo=google%20gemini&logoColor=white)
-
-
----
-
 [![Monkeytype Stats](https://monkeytype-readme-stats.vercel.app/api/monkeytype?username=Florenzano&hide=tests,rank15,rank60)](https://github.com/francisdav1d/monkeytype-readme-stats)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Carlos-Florenzano&theme=gruvbox)
 
----
