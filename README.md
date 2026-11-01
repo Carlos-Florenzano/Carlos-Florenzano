@@ -25,4 +25,4 @@
 ---
 
 [![Monkeytype Stats](https://monkeytype-readme-stats.vercel.app/api/monkeytype?username=Florenzano&hide=tests,rank15,rank60)](https://github.com/francisdav1d/monkeytype-readme-stats)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Carlos-Florenzano&theme=dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Carlos-Florenzano&theme=zenburn)
