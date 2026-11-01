@@ -1,3 +1,5 @@
+![DeepSeek](https://img.shields.io/badge/DeepSeek-%235786FE.svg?style=for-the-badge&logo=deepseek&logoColor=white)  ![Google Gemini](https://img.shields.io/badge/google%20gemini-%238E75B2.svg?style=for-the-badge&logo=google%20gemini&logoColor=white)  
+
 [![My Skills](https://skillicons.dev/icons?i=debian&perline=3)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=vscode&perline=3)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=sqlite&perline=3)](https://skillicons.dev)
@@ -10,8 +12,6 @@
 [![My Skills](https://skillicons.dev/icons?i=c&perline=3)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=cpp&perline=3)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=py&perline=3)](https://skillicons.dev)
-
-![DeepSeek](https://img.shields.io/badge/DeepSeek-%235786FE.svg?style=for-the-badge&logo=deepseek&logoColor=white)  ![Google Gemini](https://img.shields.io/badge/google%20gemini-%238E75B2.svg?style=for-the-badge&logo=google%20gemini&logoColor=white)  
 
 
 ---
