@@ -13,7 +13,6 @@
 [![My Skills](https://skillicons.dev/icons?i=cpp&perline=3)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=py&perline=3)](https://skillicons.dev)
 
-
 ---
 
 #### 𝙴𝚜𝚜𝚎 𝚙𝚎𝚛𝚏𝚒𝚕 𝚎́ 𝚏𝚎𝚒𝚝𝚘 𝚋𝚊𝚜𝚒𝚌𝚊𝚖𝚎𝚗𝚝𝚎 𝚙𝚊𝚛𝚊 𝚌𝚘𝚖𝚙𝚊𝚛𝚝𝚒𝚕𝚑𝚊𝚛 𝚊𝚕𝚐𝚞𝚖𝚊𝚜 𝚍𝚊𝚜 𝚎𝚡𝚙𝚎𝚛𝚒𝚎̂𝚗𝚌𝚒𝚊𝚜 𝚚𝚞𝚎 𝚟𝚎𝚗𝚑𝚘 𝚊𝚍𝚚𝚞𝚒𝚛𝚒𝚗𝚍𝚘,
