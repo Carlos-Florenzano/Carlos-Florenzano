@@ -24,4 +24,4 @@
 
 ---
 
-[![Monkeytype Stats](https://monkeytype-readme-stats.vercel.app/api/monkeytype?username=Florenzano&theme=dark)](https://github.com/francisdav1d/monkeytype-readme-stats)
+[![Monkeytype Stats](https://monkeytype-readme-stats.vercel.app/api/monkeytype?username=Florenzano&hide=tests,rank15,rank60)](https://github.com/francisdav1d/monkeytype-readme-stats)
