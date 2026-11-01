@@ -23,3 +23,5 @@
 - 𝙿𝚘𝚛 𝚊𝚐𝚘𝚛𝚊, 𝚘 𝚚𝚞𝚎 𝚝𝚎𝚗𝚑𝚘 𝚍𝚎 𝚙𝚕𝚊𝚗𝚘𝚜 𝚙𝚊𝚛𝚊 𝚊𝚕𝚎́𝚖 𝚍𝚘 𝙿𝚘𝚛𝚝𝚏𝚢 𝚎́ 𝚘 𝚈𝚘𝚞𝚝𝚞𝚋𝚎 𝚎 𝚘 𝚖𝚎𝚞 𝚃𝙲𝙲 (𝚚𝚞𝚎 𝚗𝚊̃𝚘 𝚙𝚛𝚎𝚝𝚎𝚗𝚍𝚘 𝚍𝚒𝚟𝚞𝚕𝚐𝚊𝚛 𝚖𝚞𝚒𝚝𝚊𝚜 𝚒𝚗𝚏𝚘𝚛𝚖𝚊𝚌̧𝚘̃𝚎𝚜 𝚗𝚎𝚜𝚜𝚎 𝚖𝚘𝚖𝚎𝚗𝚝𝚘 𝚊𝚝𝚞𝚊𝚕).
 
 ---
+
+[![Monkeytype Stats](https://monkeytype-readme-stats.vercel.app/api/monkeytype?username=SEU_USUARIO&theme=dark)](https://github.com/francisdav1d/monkeytype-readme-stats)
